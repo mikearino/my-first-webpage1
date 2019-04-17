@@ -1,0 +1,27 @@
+body {
+  background-color: purple;
+}
+h1 {
+  font-weight: bold;
+  font-family: impact;
+  line-height: normal;
+  font-size: 35px;
+}
+
+p {
+  font-stretch: extra-expanded;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+ul {
+  font-weight: bold;
+  color: pink;
+  font-size: 44;
+  }
